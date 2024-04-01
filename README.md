@@ -14,7 +14,7 @@
 - 💬 Ask me about **Flutter, Java, Python**
 
 - 📫 How to reach me **yashakhan4761@gmail.com**
-<div  style="flex: 1"><img align="right" src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="300" width="500" /> </div>
+<div  style="flex: 1"><img align="right" src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="300" width="400" /> </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasha-khan-1823ba244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasha-khan-1823ba244/" height="30" width="40" /></a>
