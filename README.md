@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OpnCV , REST API**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ykhan2476.github.io/ykhanportfolio.io/)
+- 👨‍💻 All of my projects are available at [Yasha Khan Portfolio](https://ykhan2476.github.io/ykhanportfolio.io/)
 
 - 💬 Ask me about **Flutter, Java, Python**
 
