@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="200" /> 
+<img src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="50%" width="100%" /> 
 <h1 align="center">Hi 👋, I'm Yasha Khan</h1>
 <h3 align="center">I'm a proficient Flutter developer with hands-on experience in building mobile apps.</h3>
 
