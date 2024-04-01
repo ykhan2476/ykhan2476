@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **OpnCV , REST API**
 
-- 👨‍💻 All of my projects are available at [yashakhan4761@gmail.com](yashakhan4761@gmail.com)
+- 👨‍💻 All of my projects are available at [https://ykhan2476.github.io/ykhanportfolio.io/](https://ykhan2476.github.io/ykhanportfolio.io/)
 
 - 💬 Ask me about **Flutter, Java, Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yasha-khan-1823ba244/**
+- 📫 How to reach me **yashakhan4761@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasha-khan-182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasha-khan-182" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasha-khan-1823ba244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasha-khan-1823ba244/" height="30" width="40" /></a>
 <a href="https://instagram.com/ykhan2476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ykhan2476" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ykhan2476&show_icons=true&locale=en" alt="ykhan2476" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ykhan2476&" alt="ykhan2476" /></p>
+
