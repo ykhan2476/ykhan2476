@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yasha Khan</h1>
 <h3 align="center">I'm a proficient Flutter developer with hands-on experience in building mobile apps.</h3>
-<img align="right" src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="150" width="500" />
+<img align="right" src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="250" width="600" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykhan2476&label=Profile%20views&color=0e75b6&style=flat" alt="ykhan2476" /> </p>
 
 - 🔭 I’m currently working on **Custom Scan OMR Flutter App**
