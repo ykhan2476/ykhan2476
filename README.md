@@ -13,7 +13,6 @@
 - 💬 Ask me about **Flutter, Java, Python**
 
 - 📫 How to reach me **yashakhan4761@gmail.com**
-- 📄 Know about my experiences [YashaKhanResume.pdf](https://github.com/ykhan2476/ykhan2476/files/14826270/YashaKhanFlutterResume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
