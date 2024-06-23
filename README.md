@@ -4,9 +4,9 @@
 <img align="right" src="https://i.postimg.cc/T2C6gdb8/Screenshot-2024-03-28-224038.png" alt="technologies"  height="250" width="500" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykhan2476&label=Profile%20views&color=0e75b6&style=flat" alt="ykhan2476" /> </p>
 
-- 🔭 I’m currently working on **Custom Scan OMR Flutter App**
+- 🔭 I’m currently working on **Tracking User Interactions in Android**
 
-- 🌱 I’m currently learning **OpnCV , REST API**
+- 🌱 I’m currently learning **Rest API**
 
 - 👨‍💻 All of my projects are available at [Yasha Khan Portfolio](https://ykhan2476.github.io/ykhanportfolio.io/)
 
